@@ -1,10 +1,10 @@
-# Supermart Grocery Sales Analysis
+## Supermart Grocery Sales Analysis
 
-# DATASET:
+### DATASET:
 
 The dataset consisted of data on orders placed by customers living in the state of Tamil Nadu, India on a grocery delivery application over the period of 4 years.The dataset is gotten publicly available on kaggle.com
 
-# OBJECTIVES:
+### OBJECTIVES:
 
 The main aim is to analySe the data and communicate the findings to the company shareholders about;
 
@@ -14,13 +14,13 @@ Yearly trend of sales,
 How sales can be boosted and regions where improvement is needed,
 Analyze and reward customer loyalty, and many other insights to make data-driven decisions.
 
-# TOOLS:
+### TOOLS:
 
 PYTHON- I used this for data cleaning and preprocessing which involves deleting unnecessary columns, changing data types to the appropriate types etc. Codes can be found on my github page
 
 POWER-BI- I used for ths data modelling where the table was modelled into customers, orders and product, creating the necessary relationship. Visualisation was also done.
 
-# INSIGHT AND RECOMMENDATION.
+### INSIGHT AND RECOMMENDATION.
 
 The supermart made a profit of $3.75M (25% margin) within 4 years.
 The highest selling category is snacks closely followed by eggs, meat and fish while the most oustanding products are health drinks, soft drinks and noodles, raking in around $720k in profit alone.
